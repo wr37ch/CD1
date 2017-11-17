@@ -23,7 +23,7 @@
         to log into your profile.
     </h5>
     <h5>
-        You can simply click <a href="movies.jsp">here</a> to see a full
+        You can simply DIE <a href="movies.jsp">here</a> to see a full
         list of movies in the data base.
     </h5>
     <%
