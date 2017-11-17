@@ -26,6 +26,7 @@
         You can simply DIE <a href="movies.jsp">here</a> to see a full
         list of movies in the data base.
     </h5>
+    <h3>version</h3>
     <%
         }
     %>
