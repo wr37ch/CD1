@@ -1,0 +1,9 @@
+ul.nav {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+li.nav {
+	display: inline;
+}

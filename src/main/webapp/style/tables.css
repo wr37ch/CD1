@@ -1,0 +1,12 @@
+table th, table td {
+	padding: 3px;
+	border: 1px solid;
+}
+
+th.sort {
+	cursor: pointer;
+}
+
+th.sort:HOVER {
+	font-weight: bolder;
+}
