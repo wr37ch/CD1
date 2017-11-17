@@ -8,7 +8,7 @@
 </head>
 <body>
     <jsp:include page="navigation.jsp"></jsp:include>
-    <h3>BMDB - Bulgarian movie data base</h3>
+    <h3>BMDB - Belarusian movie data base</h3>
     <h4>The place where you can find and review your favorite
         movies.</h4>
     <%
